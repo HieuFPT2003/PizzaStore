@@ -1,0 +1,41 @@
+
+g
+java:S1192"JDefine a constant instead of duplicating this literal "unitPrice" 4 times.(® ц‘8ЈЂгаЮ1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "supplierId" 4 times.(—КхРюяяяя8¤ЂгаЮ1
+g
+java:S1192"JDefine a constant instead of duplicating this literal "productId" 4 times.(уЈд€8¤ЂгаЮ1
+r
+java:S1192"PDefine a constant instead of duplicating this literal "quantityPerUnit" 5 times.(ґлНВщяяяя8¤ЂгаЮ1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "productName" 4 times.(«у°Гьяяяя8¤ЂгаЮ1
+i
+java:S1192"MDefine a constant instead of duplicating this literal "productImage" 4 times.(іыЋB8¤ЂгаЮ1
+g
+java:S1192"KDefine a constant instead of duplicating this literal "categoryId" 4 times.(¬њї8ҐЂгаЮ1
+|
+java:S14882"_Immediately return this expression instead of assigning it to the temporary variable "product".(ф±Ёџ8ҐЂгаЮ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ЅЁ“Ръяяяя8жЂгаЮ1
+q
+java:S2095m"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ЅЁ“Ръяяяя8жЂгаЮ1
+q
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ЅЁ“Ръяяяя8жЂгаЮ1
+q
+java:S2095z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ЅЁ“Ръяяяя8жЂгаЮ1
+r
+java:S2095—"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ЅЁ“Ръяяяя8жЂгаЮ1
+q
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ЅЁ“Ръяяяя8жЂгаЮ1
+q
+java:S2095Z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ЅЁ“Ръяяяя8аЮгаЮ1
+H
+java:S1168&"+Return an empty collection instead of null.(Ґ№пЌ8хЂгаЮ1
+I
+java:S1168Ћ"+Return an empty collection instead of null.(Ґ№пЌ8‰ЃгаЮ1
+I
+java:S1168¬"+Return an empty collection instead of null.(Ґ№пЌ8ўЯгаЮ1
+a
+java:S1854І">Remove this useless assignment to local variable "productDAO".(эзЪґяяяяя8¤ЯгаЮ1
+R
+java:S1481І"/Remove this unused "productDAO" local variable.(эзЪґяяяяя8§ЯгаЮ1

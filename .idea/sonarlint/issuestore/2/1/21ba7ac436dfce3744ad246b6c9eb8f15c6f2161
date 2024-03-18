@@ -1,0 +1,16 @@
+
+}
+java:S1488,"`Immediately return this expression instead of assigning it to the temporary variable "category".(Ò…öå8ªÏòõİ1
+q
+java:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8Ë‹øõİ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8§øøõİ1
+q
+java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8ÚÆóõİ1
+q
+java:S2095>"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8ÑÏòõİ1
+q
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ8´“ìõİ1
+H
+java:S1168 "+Return an empty collection instead of null.(¥¹ï8ŸÔéõİ1
+L	java:S106k"+Replace this use of System.out by a logger.(ß‰”ıÿÿÿÿ8ÕÌúõİ1

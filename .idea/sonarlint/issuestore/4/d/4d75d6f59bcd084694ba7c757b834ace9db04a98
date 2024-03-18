@@ -1,0 +1,13 @@
+
+e
+java:S1192B"HDefine a constant instead of duplicating this literal "account" 3 times.(Φ™Ò“8½£βή1
+O
+java:S1135%"2Complete the task associated to this TODO comment.(Ά§‰8Ϋ£βή1
+ƒ
+java:S1989D"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ƒ£Τ½όÿÿÿÿ8ί£βή1
+u
+java:S1989W"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(£Θά{8α£βή1
+]
+java:S2441f"@Make "AccountDTO" serializable or don't store it in the session.(’‹Ξσ8ε£βή1
+u
+java:S1989i"SHandle the following exception that could be thrown by "sendRedirect": IOException.(”‘ύÿÿÿÿ8η£βή1

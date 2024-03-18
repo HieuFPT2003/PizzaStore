@@ -1,0 +1,46 @@
+
+g
+java:S1192"JDefine a constant instead of duplicating this literal "unitPrice" 5 times.(® ö‘8¼«ÚßŞ1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "quantity" 5 times.(æ¶Êˆşÿÿÿÿ8½«ÚßŞ1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "productId" 5 times.(™ŒÂòıÿÿÿÿ8½«ÚßŞ1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "orderId" 5 times.(ƒ¡‚ü8¾«ÚßŞ1
+€
+java:S14881"cImmediately return this expression instead of assigning it to the temporary variable "orderDetail".(›Ö¥Ş8À«ÚßŞ1
+r
+java:S2095Ï"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¨çĞàŞ1
+q
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8§çĞàŞ1
+q
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8Â¬ÚßŞ1
+r
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8©çĞàŞ1
+r
+java:S2095¡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8Ã¬ÚßŞ1
+r
+java:S2095Á"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8§çĞàŞ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¨çĞàŞ1
+q
+java:S2095^"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¨çĞàŞ1
+q
+java:S2095E"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8§çĞàŞ1
+r
+java:S2095İ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8§çĞàŞ1
+r
+java:S2095²"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8§çĞàŞ1
+
+java:S4144Ù"cUpdate this method so that its implementation is not identical to "deleteOrderDetails" on line 174.(¿…ÓÉ8«çĞàŞ1
+H
+java:S1168$"+Return an empty collection instead of null.(¥¹ï8Ô¬ÚßŞ1
+H
+java:S1168V"+Return an empty collection instead of null.(¥¹ï8ÄçĞàŞ1
+H
+java:S1168o"+Return an empty collection instead of null.(¥¹ï8ÉçĞàŞ1
+I
+java:S1168ˆ"+Return an empty collection instead of null.(¥¹ï8ÎçĞàŞ1
+H	java:S106ì"+Replace this use of System.out by a logger.(¯õàÅ8âçĞàŞ1
+G
+java:S1128"*Remove this unused import 'dtos.OrderDTO'.(³ÔäÖ8ĞàŞ1

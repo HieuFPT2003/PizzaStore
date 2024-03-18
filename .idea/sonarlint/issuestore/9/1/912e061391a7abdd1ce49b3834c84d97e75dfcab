@@ -1,0 +1,30 @@
+
+e
+java:S1192"HDefine a constant instead of duplicating this literal "address" 3 times.(¬ÆÙÛ8é«¿÷İ1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "supplierId" 3 times.(’Ùâúıÿÿÿÿ8ê«¿÷İ1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "phone" 3 times.(½×Œ8ë«¿÷İ1
+i
+java:S1192"LDefine a constant instead of duplicating this literal "companyName" 3 times.(¤ª²¯8ë«¿÷İ1
+}
+java:S1488-"`Immediately return this expression instead of assigning it to the temporary variable "supplier".(¿¿µ«8ù¾÷İ1
+r
+java:S2095‡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8®ù¾÷İ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8®ù¾÷İ1
+q
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8®ù¾÷İ1
+q
+java:S2095@"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8®ù¾÷İ1
+q
+java:S2095P"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8®ù¾÷İ1
+q
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8§¬¿÷İ1
+q
+java:S2095o"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8±ƒÀ÷İ1
+H
+java:S1168!"+Return an empty collection instead of null.(¥¹ï8ºù¾÷İ1
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8È¬¿÷İ1
+H	java:S106•"+Replace this use of System.out by a logger.(•Ï¡½8ÏƒÀ÷İ1

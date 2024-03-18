@@ -1,0 +1,50 @@
+
+e
+java:S1192"HDefine a constant instead of duplicating this literal "orderId" 6 times.(Õ®Ìê8 ŠÚ³Ş1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "freight" 5 times.(‚âß×úÿÿÿÿ8 ŠÚ³Ş1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "requiredDate" 5 times.(ÙˆÄ–ûÿÿÿÿ8 ŠÚ³Ş1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "shipAddress" 5 times.(Ô½Èûÿÿÿÿ8 ŠÚ³Ş1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "customerId" 5 times.(à®Š£ÿÿÿÿÿ8 ŠÚ³Ş1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "shippedDate" 5 times.(Ú‘ÄÙşÿÿÿÿ8 ŠÚ³Ş1
+g
+java:S1192"JDefine a constant instead of duplicating this literal "orderDate" 6 times.(ş†Ù–8 ŠÚ³Ş1
+
+java:S14882"]Immediately return this expression instead of assigning it to the temporary variable "order".(ü¾Ê²ûÿÿÿÿ8¢ŠÚ³Ş1
+
+java:S1488\"]Immediately return this expression instead of assigning it to the temporary variable "order".(ü¾Ê²ûÿÿÿÿ8¢ŠÚ³Ş1
+b
+java:S2259Ÿ"DA "NullPointerException" could be thrown; "orders" is nullable here.(÷«°å8ÚŠÚ³Ş1
+b
+java:S2259º"DA "NullPointerException" could be thrown; "orders" is nullable here.(÷«°å8ÚŠÚ³Ş1
+r
+java:S2095ƒ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÚŠÚ³Ş1
+q
+java:S2095r"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÚŠÚ³Ş1
+r
+java:S2095‘"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÚŠÚ³Ş1
+r
+java:S2095¬"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÚŠÚ³Ş1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÚŠÚ³Ş1
+q
+java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÚŠÚ³Ş1
+q
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÚŠÚ³Ş1
+q
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ÚŠÚ³Ş1
+\
+java:S3516"9Refactor this method to not always return the same value.(ŞÍÒÑùÿÿÿÿ8ÛŠÚ³Ş1
+\
+java:S3516¨"9Refactor this method to not always return the same value.(×ƒËşÿÿÿÿ8ÛŠÚ³Ş1
+H
+java:S1168&"+Return an empty collection instead of null.(¥¹ï8æŠÚ³Ş1
+I
+java:S1168¤"+Return an empty collection instead of null.(¥¹ï8öŠÚ³Ş1
+I
+java:S1168¿"+Return an empty collection instead of null.(¥¹ï8úŠÚ³Ş1
+M	java:S106à"+Replace this use of System.out by a logger.(à±•¦ùÿÿÿÿ8ûŠÚ³Ş1

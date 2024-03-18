@@ -1,0 +1,30 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "fullName" 5 times.(Ùî´»8¯ú×àŞ1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "accountId" 5 times.(­µ“ƒøÿÿÿÿ8°ú×àŞ1
+e
+java:S1192"IDefine a constant instead of duplicating this literal "password" 5 times.(é½Ñd8±ú×àŞ1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "customerId" 4 times.(æ¸Ìßüÿÿÿÿ8©ÀÙàŞ1
+f
+java:S1192"IDefine a constant instead of duplicating this literal "username" 5 times.(´ÓÏ8±ú×àŞ1
+
+java:S1488."_Immediately return this expression instead of assigning it to the temporary variable "account".(¢™‰¼ÿÿÿÿÿ8¸ú×àŞ1
+
+java:S1488G"_Immediately return this expression instead of assigning it to the temporary variable "account".(¢™‰¼ÿÿÿÿÿ8·ú×àŞ1
+‚
+java:S1488“"_Immediately return this expression instead of assigning it to the temporary variable "account".(¢™‰¼ÿÿÿÿÿ8µú×àŞ1
+‚
+java:S1488¬"_Immediately return this expression instead of assigning it to the temporary variable "account".(¢™‰¼ÿÿÿÿÿ8ºú×àŞ1
+m
+java:S2095€"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8†û×àŞ1
+m
+java:S2095¨"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8…û×àŞ1
+l
+java:S2095n"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8…û×àŞ1
+l
+java:S2095\"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ‹ïú8†û×àŞ1
+H
+java:S1168""+Return an empty collection instead of null.(¥¹ï8–û×àŞ1
+M	java:S106Â"+Replace this use of System.out by a logger.(Âé’ùÿÿÿÿ8¶û×àŞ1

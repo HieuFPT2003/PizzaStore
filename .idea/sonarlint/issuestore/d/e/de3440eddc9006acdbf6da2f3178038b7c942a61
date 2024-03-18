@@ -1,0 +1,11 @@
+
+n
+java:S1192?"QDefine a constant instead of duplicating this literal "sales-report.jsp" 3 times.(ÀÇ™õ8´ù†áÞ1
+O
+java:S1135&"2Complete the task associated to this TODO comment.(¢§‰8˜í…áÞ1
+p
+java:S1989?"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ÀÇ™õ8ší…áÞ1
+~
+java:S1989T"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ùÀ¯8í…áÞ1
+~
+java:S1989`"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ùÀ¯8Öù†áÞ1

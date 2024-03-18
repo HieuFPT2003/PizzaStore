@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>JSP Page</title>
+    <link rel="stylesheet" href="./asset/styles.css">
+
+</head>
+
+<body>
+    <div id="header">
+        <div class="header__user-name">
+            <div class="header__user--left">
+                <div class="header__name--logo">
+                    <img class="logo" src="asset/img/logo.jpg">
+                </div>
+                <div class="header__user-name--brand">
+                    <a href="./home">
+                        <h2>Pizza Express</h2>
+                    </a>
+                </div>
+            </div>
+            <div class="header__user--middle">
+                <h4 style="color: #e64a19">Cheap delicious pizza delivered to your</h4>
+            </div>
+            <div class="header__user--right">
+                <c:if test="${sessionScope.account == null}">
+                    <a href="register.jsp">Register</a>
+                    /
+                    <a href="login.jsp">Login</a>
+                </c:if>
+                <c:if test="${sessionScope.account != null}">
+                    Welcome, <a href="account"> ${sessionScope.account.username}</a>
+                    /
+                    <a href="./logout">Logout</a>
+                </c:if>
+            </div>
+        </div>
+        <nav>
+            <ul id="main-menu">
+                <li>
+                    <a href="./home">Home</a>
+                </li>
+                <li>
+                    <a href="./my-order?accountId=${sessionScope.account.username}">My Orders</a>
+                </li>
+                <li>
+                    <a href="Policy.jsp">Policy</a>
+                </li>
+                <li>
+                    <a href="BLOG.jsp">BLOG</a>
+                </li>
+                <li>
+                    <a href="./home">About Us</a>
+                </li>
+                <li class="callShop">
+                    <div class="callShop__top">Call Now - Ship (24/7)</div>
+                    <div class="callShop__bottom">08.6782.4950</div>
+                </li>
+
+            </ul>
+
+        </nav>
+
+        <div class="banner">
+            <img height="30%" class="banner__img" src="asset/img/pizza-2.jfif">
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#toggle').click(function () {
+                $('nav').slideToggle();
+            })
+        })
+    </script>
+
+    <footer class="footer">
+        <div class="footer__top">
+        <div class="menu">
+            <ul class="foooter_list menu__list">
+                <li>
+                    <h3 class="list_title">Menu</h3>
+                </li>
+                <li>Super Deal</li>
+                <li>My Box</li>
+                <li>Combo</li>
+                <li>Buy 1 for 3</li>
+                <li>Chicken</li>
+                <li>Pizza</li>
+                <li>Drink</li>
+            </ul>
+        </div>
+
+        <div class="aboutUs">
+            <ul class="foooter_list aboutUs__list">
+                <li>
+                    <h3 class="list_title">Introduction</h3>
+                </li>
+                <li>Our vision</li>
+                <li>Core values</li>
+                <li>Hygiene and food safety</li>
+            </ul>
+        </div>
+
+        <div class="findStore">
+            <ul class="foooter_list findStore__list">
+                <li>
+                    <h3 class="list_title">FindStore</h3>
+                </li>
+
+                <li>Northern Region</li>
+                <li>The Central Region</li>
+                <li>Southern region</li>
+            </ul>
+        </div>
+
+        <div class="employment">
+            <ul class="foooter_list employment__list">
+                <li>
+                    <h3 class="list_title">Employee</h3>
+                </li>
+                <li>Career Opportunities</li>
+                <li>Help</li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer__bottom">
+        <div class="bottom_left">
+            <p class="">Copyright Nguyen Quang Hieu</p>
+            <p class="">Moi van de ban quyen hinh anh vui long lien he cho chung toi de duoc giai dap</p>
+
+        </div>
+        <div class="bottom_right">
+            <img class="bottom_facebook" src="asset/img/Facebook.jpg" alt="">
+            <p>Facebook</p>
+        </div>
+    </div>
+    </footer>
+</body>
+
+</html>

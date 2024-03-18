@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PRJ20240301">
+            <file>file:/D:/FPT_Support/PizzaStore/web/register.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/edit-product.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/src/java/controllers/ProductManagementController.java</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/orderpage.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/account.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/change-password.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/src/java/controllers/DetailProductController.java</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/WEB-INF/web.xml</file>
+            <file>file:/D:/FPT_Support/PizzaStore/src/java/controllers/HomepageController.java</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/member-management.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/order-management.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/homepage.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/detail-product.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/login.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/create-member.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/src/java/daos/ProductDAO.java</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/edit-member.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/sales-report.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/myorder.jsp</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/asset/styles.css</file>
+            <file>file:/D:/FPT_Support/PizzaStore/web/product-management.jsp</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/Q.Hieu/Desktop/PizzaStore/PizzaStore/src/java/utils/DBUtils.java</file>
+        </group>
+    </open-files>
+</project-private>
