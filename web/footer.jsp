@@ -24,7 +24,7 @@
                     <div class="col-md-4">
                         <h4>About Us</h4>
                         <p>Pizza Express </p>
-                        <img width="100px" height="100px" src="https://scontent.fsgn5-8.fna.fbcdn.net/v/t1.15752-9/431721535_210361652168097_932857897442148879_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGlM3TPccbxjk2lrDe1-aXKob06BI382i6hvToEjfzaLg5W4p7Y8pIXYLjHvolFOXNDBcqdzt2Vjx1dslcV_B7x&_nc_ohc=rgt_8Awxl5cAX8kJoNw&_nc_ht=scontent.fsgn5-8.fna&oh=03_AdQ5GJV0xpvcM0i36G-KaA0FsvArprirgXqyG1KxP9kApg&oe=6617553C"/>
+                        <img width="100px" height="100px" src="asset/img/logo.jpg"/>
                     </div>
                     <div class="col-md-4">
                         <h4>Contact Us</h4>
