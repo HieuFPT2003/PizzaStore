@@ -1,9 +1,3 @@
-<%-- 
-    Document   : header
-    Created on : Jun 11, 2023, 4:25:09 PM
-    Author     : Nguyen Thanh
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>

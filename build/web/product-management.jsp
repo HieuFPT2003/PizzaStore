@@ -1,9 +1,3 @@
-<%-- 
-    Document   : register
-    Created on : Feb 25, 2024, 4:10:43 PM
-    Author     : ASUS
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html>

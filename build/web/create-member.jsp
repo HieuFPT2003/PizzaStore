@@ -1,9 +1,5 @@
 <%@ taglib prefix="th" uri="http://java.sun.com/jsp/jstl/core" %>
-<%--
-    Document   : create-pizza
-    Created on : Feb 25, 2024, 7:20:19 PM
-    Author     : ASUS
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

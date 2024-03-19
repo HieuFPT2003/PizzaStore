@@ -1,8 +1,4 @@
-<%--
-    Document   : orderpage
-    Created on : Feb 26, 2024, 8:38:15 PM
-    Author     : ASUS
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
