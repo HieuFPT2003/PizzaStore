@@ -1,8 +1,4 @@
-<%@ page import="dtos.AccountDTO" %><%--
-    Document   : orderpage
-    Created on : Feb 26, 2024, 8:38:15 PM
-    Author     : ASUS
---%>
+<%@ page import="dtos.AccountDTO" %>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

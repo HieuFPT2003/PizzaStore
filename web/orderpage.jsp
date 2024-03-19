@@ -1,11 +1,8 @@
 <%@ page import="dtos.AccountDTO" %>
 <%@ page import="daos.AccountDAO" %>
 <%@ page import="dtos.CustomerDTO" %>
-<%@ page import="daos.CustomerDAO" %><%--
-    Document   : orderpage
-    Created on : Feb 26, 2024, 8:38:15 PM
-    Author     : ASUS
---%>
+<%@ page import="daos.CustomerDAO" %>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
